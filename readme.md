@@ -5,7 +5,24 @@ Welcome! Pandas is by far the most popular way of manipulating and visualising d
 This tutorial aims to identify a *single*, *best* approach for achieving several common operations in Pandas. It won't delve into every part of the library, but rather give you tools for solving particular common problems. What I *will* delve into is some of the working behind these methods and objects. A little bit of extra time spent understanding the core processes that make these methods work will pay off in a better understanding of how to use and extend these methods. Even if you already know and use Pandas, I hope that you'll benefit from a deeper understanding of these methods.
 
 ## Where am I?
-You're reading a "readme" file in a Github repository. Github is hosting this file, and several others that make up this Pandas tutorial. You can download this code and run it on your own machine, but there are a few steps you'll have to complete first. These steps are *much* more difficult than anything in this tutorial, so don't get discouraged. Take a bit of time to read through the instructions linked below, and get a sense of what you're going to do, and how it works.
+You're reading a "readme" file in a Github repository. Github is hosting this file, and several others that make up this Pandas tutorial. There are a couple of options for running this code. The easiest is to run it in Google Colab - everything runs online, in your browser. The trickier way is to download this repository, install Python, and run it on your own machine.
+
+## Run in Google Colab
+
+Google Colab is a neat tool that lets you run code in your browser, using Google's servers. You can open each of the tutorials from this page.
+
+#### Part One
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SimonCarryer/pandas_tutorial/blob/master/Part%20One%20-%20Rows%20and%20Columns.ipynb)
+
+#### Part Five
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SimonCarryer/pandas_tutorial/blob/master/Part%20Five%20-%20Dates%20and%20Times.ipynb)
+
+
+## Run Locally
+
+You can download this code and run it on your own machine, but there are a few steps you'll have to complete first. These steps are *much* more difficult than anything in this tutorial, so don't get discouraged. Take a bit of time to read through the instructions linked below, and get a sense of what you're going to do, and how it works.
 
 ### Step One: Github
 
