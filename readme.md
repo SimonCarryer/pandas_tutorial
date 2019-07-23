@@ -11,11 +11,23 @@ You're reading a "readme" file in a Github repository. Github is hosting this fi
 
 Google Colab is a neat tool that lets you run code in your browser, using Google's servers. You can open each of the tutorials from this page.
 
-#### Part One
+#### Part One - Rows and Columns
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SimonCarryer/pandas_tutorial/blob/master/Part%20One%20-%20Rows%20and%20Columns.ipynb)
 
-#### Part Five
+#### Part Two - Filtering and Sorting
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SimonCarryer/pandas_tutorial/blob/master/Part%20Two%20-%20Filtering%2C%20Sorting%2C%20and%20Grouping.ipynb)
+
+#### Part Three - Cleaning, Joining, and Manipulating
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SimonCarryer/pandas_tutorial/blob/master/Part%20Three%20-%20Cleaning%2C%20joining%20and%20manipulating.ipynb)
+
+#### Part Four - More Operations on Data
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SimonCarryer/pandas_tutorial/blob/master/Part%20Four%20-%20More%20Operations%20on%20Data.ipynb)
+
+#### Part Five - Dates and Times
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SimonCarryer/pandas_tutorial/blob/master/Part%20Five%20-%20Dates%20and%20Times.ipynb)
 
