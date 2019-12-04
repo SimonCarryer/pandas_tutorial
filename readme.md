@@ -31,6 +31,11 @@ Google Colab is a neat tool that lets you run code in your browser, using Google
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SimonCarryer/pandas_tutorial/blob/master/Part%20Five%20-%20Dates%20and%20Times.ipynb)
 
+#### Part Six - Charts
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SimonCarryer/pandas_tutorial/blob/master/Part%20Six%20-%20Charts.ipynb)
+
+
 
 ## Run Locally
 
