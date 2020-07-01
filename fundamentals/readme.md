@@ -1,0 +1,2 @@
+# Fundamentals
+This section contains a few tutorials on subjects I'm calling "fundamentals" - key skills for working with data and with code. These are things that I wish I'd learned earlier in my career, or things that I didn't even really think of as _skills_ until I'd already learnt them. Learning these will greatly accellerate your learning.
